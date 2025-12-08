@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class BankAccount {
      double balance;
 
@@ -11,7 +12,6 @@ class SavingsAccount extends BankAccount{
     }
 }
 
-import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args) {
@@ -32,3 +32,4 @@ public class Main{
     
 
      
+
